@@ -71,4 +71,3 @@ Fork the repo, make your enhancements, and submit a **pull request**!
 If you love this project, **star** ⭐ the repo and share it with fellow gymnasts and researchers! 🤸‍♀️💡  
 
 Let's revolutionize gymnastics performance with AI! 🏆🤖🔥
-
